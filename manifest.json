@@ -1,0 +1,24 @@
+{
+  "name": "FranchiseKu - POS & Manajemen",
+  "short_name": "FranchiseKu",
+  "description": "Aplikasi Point of Sale (POS) dan manajemen untuk bisnis franchise.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/111827/FFFFFF?text=FK",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/111827/FFFFFF?text=FK",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
