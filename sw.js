@@ -9,9 +9,9 @@ const urlsToCache = [
   // ASET LOKAL (CSS, JS, Ikon) - SESUAIKAN PATH JIKA PERLU
   '/styles/main.css',          // <-- Ganti dengan path file CSS utama Anda
   '/scripts/main.js',          // <-- Ganti dengan path file JS utama Anda
-  '/logo-192x192.png',         // <-- Ikon untuk manifest
-  '/logo-512x512.png',         // <-- Ikon untuk manifest
-  '/logo-maskable-512x512.png',// <-- Ikon maskable untuk manifest
+  '/icon-192x192.png',         // <-- Ikon untuk manifest
+  '/icon-512x512.png',         // <-- Ikon untuk manifest
+  '/icon-maskable-512x512.png',// <-- Ikon maskable untuk manifest
 
   // ASET EKSTERNAL (Font, Library, dll.)
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap',
