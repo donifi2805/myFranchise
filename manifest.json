@@ -9,13 +9,13 @@
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "https://placehold.co/192x192/111827/FFFFFF?text=FK",
+      "src": "/logo-192x192.png",  // <-- Diubah ke file lokal
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any maskable"
     },
     {
-      "src": "https://placehold.co/512x512/111827/FFFFFF?text=FK",
+      "src": "/logo-512x512.png",  // <-- Diubah ke file lokal
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
